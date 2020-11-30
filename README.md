@@ -11,8 +11,12 @@
 <img src="pics/reboot_schm.png " width="600">  
 
 Pressing and releasing the BOOTLOADER button will cycle the power and start the MCU with 1k pull-up on the USB-P line. This will start the built in USB/Serial bootoader. External BOOT input is provided for triggering via DTR or other active low signal.  
-Take a look here for similar circuit for the CH559 series: https://github.com/hexeguitar/CH55x-HW-reboot  
-Python programming script for both USB and serial port can be found here: https://github.com/hexeguitar/CH55x_python_flasher  
+
+Take a look here for similar circuit for the CH559 series:  
+https://github.com/hexeguitar/CH55x-HW-reboot  
+
+Python programming script for both USB and serial port can be found here:  
+https://github.com/hexeguitar/CH55x_python_flasher  
 ___
 (c) 11.2020 by Piotr Zapart  
 www.hexefx.com
